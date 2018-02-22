@@ -1,0 +1,10 @@
+ Volume in drive C is RAHISH
+ Volume Serial Number is BECC-BC1D
+
+ Directory of C:\Users\Rajesh\Desktop\My Folder
+
+02/22/2018  09:36 AM    <DIR>          .
+02/22/2018  09:36 AM    <DIR>          ..
+02/22/2018  09:36 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  100,496,400,384 bytes free
